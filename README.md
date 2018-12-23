@@ -27,7 +27,7 @@ Anleitung:
 * ------------------------------------------------------------------------------------------------
 
  * - Es ist auch möglich, ein Abenteuer für ein Spezielles Spiel fest zu legen, solang man mindestens eine Geschichte ohne festes Spiel angelegt hat!
- * -Bitte geht sicher das die Nummer der Geschichten fortlaufend sind!
+ * - Bitte geht sicher das die Nummer der Geschichten fortlaufend sind!
  * - $.lang.register('adventuresystem.stories.NUMMER.game', 'SPIEL NAME IN KLEINEN BUCHSTABEN');.
 
  * Beispiel >
