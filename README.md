@@ -10,7 +10,7 @@
 German Adventures for the Phantombot
 Deutsche Abenteuer/Geschichten für den Phantombot
 
-Hier gehts zum Repository für die Volle Deutsche übersetzung des Phantom Bot: https://github.com/vesturo/PhantomBotDE
+Hier gehts zum Repository für die Volle Deutsche übersetzung des Phantom Bot: https://github.com/PhantomBotDE/PhantomBotDE
 
 
 Ich möchte hier eine kleine Sammlung für Deutsche Abenteuer für den Phantombot zusammen tragen.
