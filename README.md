@@ -23,8 +23,9 @@ Anleitung:
  * - Jede Geschichte MUSS einen Titel haben!
  * - Jede Geschichte kann eine unbegrenzte Anzahl an Kapiteln haben, wenn die Sequenznummern sich nicht wiederholen und in der richtigen Reihenfolge sind!
  * - Die Geschichten werden Zufällig beim aktivieren des Abenteuers ausgewählt.
- *
- ** Es ist auch möglich, ein Abenteuer für ein Spezielles spiel fest zu legen, solang man mindestens eine Geschichte ohne festes Spiel angelegt hat!
+
+
+ ** Es ist auch möglich, ein Abenteuer für ein Spezielles Spiel fest zu legen, solang man mindestens eine Geschichte ohne festes Spiel angelegt hat!
  ** Bitte geht sicher das die Nummer der Geschichten fortlaufend sind!
  * - $.lang.register('adventuresystem.stories.NUMMER.game', 'SPIEL NAME IN KLEINEN BUCHSTABEN');.
 
