@@ -46,29 +46,3 @@ $.lang.register('adventuresystem.stories.5.chapter.1', 'Es gibt da diesen einen 
 $.lang.register('adventuresystem.stories.5.chapter.2', '/me Vorsichtig schlichen sich der/die Abenteuer durch die gruselige Villa und versuchten dabei keinen Lärm zu machen.');
 $.lang.register('adventuresystem.stories.5.chapter.3', 'Plötlich erstarrt (caught) auf der Stelle und kann sich nicht mehr bewegen. "Lauft um euer leben! Lasst mich/uns hier zurück! Der Buttler Locxion hat uns entdeckt!"');
 $.lang.register('adventuresystem.stories.5.chapter.4', 'Haarscharf konnte/n (survivors) den grausamen Fängen des Buttlers entfliehen! Ob es wohl nochmal jemand waagen sollte Locxion herraus zu fordern?');
-/*
- * Rules on writing your own adventure story:
- *
- * - Stories are automatically loaded from this file by their sequence number (adventuresystem.stories.[This number]).
- * - Keep the format of your story as shown above.
- * - There can be an unlimited number of stories, IF you keep their subsequence numbers 1, 2, 3, 4, 5...
- * - A story must have a title.
- * - A story can have an unlimited number of chapters, IF you keep their subsequence numbers 1, 2, 3, 4, 5...
- * - Stories are picked at random.
- *
- ** Game specific story how-to. You also need to make sure that you at least have ONE story that doesn't require a specific game.
- ** Please make sure that your story number also follow along. What I mean by that is it needs to start from 1 and go up. Same with the chapters.
- * - Add $.lang.register('adventuresystem.stories.NUMBER.game', 'GAME NAME IN LOWER CASE'); on top of the story chapter.
-
- * Example >
- * $.lang.register('adventuresystem.stories.5.game', 'programming');
- * $.lang.register('adventuresystem.stories.5.title', 'Talk Shows');
- * $.lang.register('adventuresystem.stories.5.chapter.1', 'random story...');
- *
- * Underneath is a template for your first custom story, just remove the preceding slashes.
- */
-
-//$.lang.register('adventuresystem.stories.5.title', '');
-//$.lang.register('adventuresystem.stories.5.chapter.1', '');
-//$.lang.register('adventuresystem.stories.5.chapter.2', '');
-//$.lang.register('adventuresystem.stories.5.chapter.3', '');
