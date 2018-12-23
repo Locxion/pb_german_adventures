@@ -24,9 +24,10 @@ Anleitung:
  * - Jede Geschichte kann eine unbegrenzte Anzahl an Kapiteln haben, wenn die Sequenznummern sich nicht wiederholen und in der richtigen Reihenfolge sind!
  * - Die Geschichten werden Zufällig beim aktivieren des Abenteuers ausgewählt.
 
+* ------------------------------------------------------------------------------------------------
 
- ** Es ist auch möglich, ein Abenteuer für ein Spezielles Spiel fest zu legen, solang man mindestens eine Geschichte ohne festes Spiel angelegt hat!
- ** Bitte geht sicher das die Nummer der Geschichten fortlaufend sind!
+ * - Es ist auch möglich, ein Abenteuer für ein Spezielles Spiel fest zu legen, solang man mindestens eine Geschichte ohne festes Spiel angelegt hat!
+ * -Bitte geht sicher das die Nummer der Geschichten fortlaufend sind!
  * - $.lang.register('adventuresystem.stories.NUMMER.game', 'SPIEL NAME IN KLEINEN BUCHSTABEN');.
 
  * Beispiel >
@@ -37,7 +38,6 @@ Anleitung:
  * Die Variable (caught) beschreibt Spieler die während der Geschichte geschnappt werden.
  * Die Variable (survivors) beschreibt die Spieler die die Geschichte überleben.
  * Ein Stück weiter unten findet ihr ein Template das ihr für neue Geschichten benutzen könnt. Einfach die // davor entfernen!
- */
 
 //$.lang.register('adventuresystem.stories.NUMMER.title', '');
 //$.lang.register('adventuresystem.stories.NUMMER.chapter.1', '');
