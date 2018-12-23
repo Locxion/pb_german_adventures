@@ -15,10 +15,8 @@ Ich möchte hier eine kleine Sammlung für Deutsche Abenteuer für den Phantombo
 Jeder kann gerne einen Pull Request mit neuen Abenteuern beisteuern. Bitte beachtet die Reihenfolge der Stories und der Chapter.
 
 
-
 Anleitung:
 
- * - Stories are automatically loaded from this file by their sequence number (adventuresystem.stories.[NUMMER]).
  * - Die Geschichten werden automatisch aus der games-adventureSystem.js mit den Sequenz Nummern geladen. (adventuresystem.stories.[Nummer])
  * - Bitte behaltet UNBEDINGT das unten stehende Format bei!
  * - Du kannst so viele Geschichten haben wie du möchtest, wenn die Sequenznummern sich nicht wiederholen und in der richtigen Reihenfolge sind!
