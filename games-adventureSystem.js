@@ -46,3 +46,10 @@ $.lang.register('adventuresystem.stories.5.chapter.1', 'Es gibt da diesen einen 
 $.lang.register('adventuresystem.stories.5.chapter.2', '/me Vorsichtig schlichen sich der/die Abenteuer durch die gruselige Villa und versuchten dabei keinen Lärm zu machen.');
 $.lang.register('adventuresystem.stories.5.chapter.3', 'Plötlich erstarrt (caught) auf der Stelle und kann sich nicht mehr bewegen. "Lauft um euer leben! Lasst mich/uns hier zurück! Der Buttler Locxion hat uns entdeckt!"');
 $.lang.register('adventuresystem.stories.5.chapter.4', 'Haarscharf konnte/n (survivors) den grausamen Fängen des Buttlers entfliehen! Ob es wohl nochmal jemand waagen sollte Locxion herraus zu fordern?');
+
+$.lang.register('adventuresystem.stories.6.title', 'Das wilde Reh aus dem Wald');
+$.lang.register('adventuresystem.stories.6.chapter.1', 'HERGEHÖRT! Du/Ihr hast/habt doch bestimmt schonmal den Film "Bambi" gesehen oder? Das alles ist REAL!');
+$.lang.register('adventuresystem.stories.6.chapter.2', 'Los! Greif/t dir/euch deine/eure Smartphones mit Snapchat Filter und Youtube VLog Kameras! Wir machen uns auf in den Wald!');
+$.lang.register('adventuresystem.stories.6.chapter.3', 'Reiß/t dich/euch zusammen! Kann jemand Spuren lesen? Irgendwo muss dieses Reh doch zu finden sein!?');
+$.lang.register('adventuresystem.stories.6.chapter.4', 'Passt auf wo ihr hin tretet! Sonst fallt ihr noch .... och nö ... (caught) hat es voll auf die Fresse gelegt.');
+$.lang.register('adventuresystem.stories.6.chapter.5', 'Na wenigstens hat/haben (survivors) ein paar Pilze gesammelt. Da können wir immerhin Food-Fotos auf Instagram hochladen.');
