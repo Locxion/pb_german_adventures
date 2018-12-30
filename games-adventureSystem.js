@@ -53,3 +53,19 @@ $.lang.register('adventuresystem.stories.6.chapter.2', 'Los! Greif/t dir/euch de
 $.lang.register('adventuresystem.stories.6.chapter.3', 'Reiß/t dich/euch zusammen! Kann jemand Spuren lesen? Irgendwo muss dieses Reh doch zu finden sein!?');
 $.lang.register('adventuresystem.stories.6.chapter.4', 'Passt auf wo ihr hin tretet! Sonst fallt ihr noch .... och nö ... (caught) hat es voll auf die Fresse gelegt.');
 $.lang.register('adventuresystem.stories.6.chapter.5', 'Na wenigstens hat/haben (survivors) ein paar Pilze gesammelt. Da können wir immerhin Food-Fotos auf Instagram hochladen.');
+
+$.lang.register('adventuresystem.stories.7.title', 'Abfluss FREI');
+$.lang.register('adventuresystem.stories.7.chapter.1', 'Los gehts! Haben alle ihre Siebe und Atemmasken dabei? Dann rein in die Wassermassen, auf die besten Feenstaubheraussieber!');
+$.lang.register('adventuresystem.stories.7.chapter.2', 'Leider waren diesmal nicht alle richtig bei der Sache. Nur wenige haben etwas Feenstaub aus dem Wasser sieben können! (caught) sind ausgerutscht, kopfüber im Abfluss gelandet und wurd(en) durch hinterlistige Strömungen mitgerissen.');
+$.lang.register('adventuresystem.stories.7.chapter.3', '(survivors) schaffte(n) es zurück aus dem Abfluss, beladen mit gesiebtem Feenstaub.');
+
+$.lang.register('adventuresystem.stories.8.title', 'Der Feenschatz');
+$.lang.register('adventuresystem.stories.8.chapter.1', 'Freunde! Ich habe die Koordinaten für ein geheimes Staubversteck der abtrünnigen Feen, tief im Fairy Forest, bekommen. Wir sollten uns das unbedingt ansehen!');
+$.lang.register('adventuresystem.stories.8.chapter.2', 'Vorsicht! Die bösen Feen haben überall tödliche Fallen versteckt! (caught) hatte(n) Pech und fiel(en) diesen zum Opfer.');
+$.lang.register('adventuresystem.stories.8.chapter.3', 'Verdammt, das war knapp! Aber es ist geschafft! (survivors) kehrte(n) mit vollen Taschen zurück!');
+
+$.lang.register('adventuresystem.stories.9.title', 'Mutation');
+$.lang.register('adventuresystem.stories.9.chapter.1', 'Ich denke, wir haben sehr gute Chancen, eine sagenumwobene Kreatur in dieser Höhle zu finden... Sie ist das Resultat jahrelanger Forschung nach ewigem Leben. Lacht nicht, ICH MEINE ES TOT ERNST!');
+$.lang.register('adventuresystem.stories.9.chapter.2', '/me Als sich der mutige Feentrupp seinen Weg durch die Tunnel bahnt, hören sie ein leises Flattern hinter sich...');
+$.lang.register('adventuresystem.stories.9.chapter.3', 'Achtung! Es ist Fee Hindert, das lang verschollene Experiment! (caught) wurde(n) in die Dunkelheit gezogen und verschwand(en) auf nimmer Wiedersehen.');
+$.lang.register('adventuresystem.stories.9.chapter.4', '(survivors), lasst uns hier verschwinden! Wir können es nicht mit ihr aufnehmen!');
