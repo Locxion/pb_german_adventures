@@ -41,7 +41,7 @@ Anleitung:
  * Die Variable (survivors) beschreibt die Spieler die die Geschichte überleben.
  * Ein Stück weiter unten findet ihr ein Template das ihr für neue Geschichten benutzen könnt. Einfach die // davor entfernen!
 
-//$.lang.register('adventuresystem.stories.NUMMER.title', '');
-//$.lang.register('adventuresystem.stories.NUMMER.chapter.1', '');
-//$.lang.register('adventuresystem.stories.NUMMER.chapter.2', '');
-//$.lang.register('adventuresystem.stories.NUMMER.chapter.3', '');
+//$.lang.register('adventuresystem.stories.NUMMER.title', ''); 
+//$.lang.register('adventuresystem.stories.NUMMER.chapter.1', ''); 
+//$.lang.register('adventuresystem.stories.NUMMER.chapter.2', ''); 
+//$.lang.register('adventuresystem.stories.NUMMER.chapter.3', ''); 
