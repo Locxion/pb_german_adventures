@@ -67,5 +67,5 @@ $.lang.register('adventuresystem.stories.8.chapter.3', 'Verdammt, das war knapp!
 $.lang.register('adventuresystem.stories.9.title', 'Mutation');
 $.lang.register('adventuresystem.stories.9.chapter.1', 'Ich denke, wir haben sehr gute Chancen, eine sagenumwobene Kreatur in dieser Höhle zu finden... Sie ist das Resultat jahrelanger Forschung nach ewigem Leben. Lacht nicht, ICH MEINE ES TOT ERNST!');
 $.lang.register('adventuresystem.stories.9.chapter.2', '/me Als sich der mutige Feentrupp seinen Weg durch die Tunnel bahnt, hören sie ein leises Flattern hinter sich...');
-$.lang.register('adventuresystem.stories.9.chapter.3', 'Achtung! Es ist Fee Hindert, das lang verschollene Experiment! (caught) wurde(n) in die Dunkelheit gezogen und verschwand(en) auf nimmer Wiedersehen.');
+$.lang.register('adventuresystem.stories.9.chapter.3', 'Achtung! Es ist Amarylissell Lichterwind, das lang verschollene Experiment! (caught) wurde(n) in die Dunkelheit gezogen und verschwand(en) auf nimmer Wiedersehen.');
 $.lang.register('adventuresystem.stories.9.chapter.4', '(survivors), lasst uns hier verschwinden! Wir können es nicht mit ihr aufnehmen!');
