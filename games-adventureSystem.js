@@ -69,3 +69,10 @@ $.lang.register('adventuresystem.stories.9.chapter.1', 'Ich denke, wir haben seh
 $.lang.register('adventuresystem.stories.9.chapter.2', '/me Als sich der mutige Feentrupp seinen Weg durch die Tunnel bahnt, hören sie ein leises Flattern hinter sich...');
 $.lang.register('adventuresystem.stories.9.chapter.3', 'Achtung! Es ist Amarylissell Lichterwind, das lang verschollene Experiment! (caught) wurde(n) in die Dunkelheit gezogen und verschwand(en) auf nimmer Wiedersehen.');
 $.lang.register('adventuresystem.stories.9.chapter.4', '(survivors), lasst uns hier verschwinden! Wir können es nicht mit ihr aufnehmen!');
+
+$.lang.register('adventuresystem.stories.10.title', 'Eine neue Welt');
+$.lang.register('adventuresystem.stories.10.chapter.1', 'Treue Crew. Ich habe endlich die Karte in die neue Welt gefunden. Packt deine/eure Sachen wir stechen in See.');
+$.lang.register('adventuresystem.stories.10.chapter.2', 'Wir haben das Ziel fast erreicht. Wir sollten schonmal eine große Party veranstalten. Hohlt das Fleisch und den Rum aus dem Lagerraum.');
+$.lang.register('adventuresystem.stories.10.chapter.3', 'Was??? Wir haben keinen Rum mehr. Wir meutern. Schnappt euch den Captain und schickt Ihn über die Planken.');
+$.lang.register('adventuresystem.stories.10.chapter.4', 'Passt auf. Der Mächtige Captain greift in die Schlacht ein. (caught) wurde/wurden bei der Meuterei brutal niedergeschlachtet und über Bord geworfen. Für Sie ist die Reise hier zuende.');
+$.lang.register('adventuresystem.stories.10.chapter.5', '(survivors), haben die Meuterei überlebt, weil Sie treu zum Captain standen. Sie fanden in der neuen Welt unglaubliche Schätze.');
