@@ -76,3 +76,10 @@ $.lang.register('adventuresystem.stories.10.chapter.2', 'Wir haben das Ziel fast
 $.lang.register('adventuresystem.stories.10.chapter.3', 'Was??? Wir haben keinen Rum mehr. Wir meutern. Schnappt euch den Captain und schickt Ihn über die Planken.');
 $.lang.register('adventuresystem.stories.10.chapter.4', 'Passt auf. Der Mächtige Captain greift in die Schlacht ein. (caught) wurde/wurden bei der Meuterei brutal niedergeschlachtet und über Bord geworfen. Für Sie ist die Reise hier zuende.');
 $.lang.register('adventuresystem.stories.10.chapter.5', '(survivors), haben die Meuterei überlebt, weil Sie treu zum Captain standen. Sie fanden in der neuen Welt unglaubliche Schätze.');
+
+$.lang.register('adventuresystem.stories.11.title', 'Feldwebel Nalchens Selbstmordkommando');
+$.lang.register('adventuresystem.stories.11.chapter.1', 'STILLGESTANDEN! BAUCH REIN! BRUST RAUS! Ihr habt euch alle freiwillig gemeldet um für diese Mission euer Leben zu riskieren!');
+$.lang.register('adventuresystem.stories.11.chapter.2', 'Der Feind hat die gesammten Lisen-Chips Vorräte ergattert! Das kann ich so nicht hinnehmen! Macht euch bereit!');
+$.lang.register('adventuresystem.stories.11.chapter.3', 'Zufrieden sieht Feldwebel Nalchen wie ihre Truppen den Feind angfreifen. Bald werden die Lisen-Chips ihr allein gehören!');
+$.lang.register('adventuresystem.stories.11.chapter.4', 'Aber was ist das? (caught) ergreifen die Flucht! Panisch schreien sie/er "Aber Feldwebel Nalchen! Da ist ein Fluss dazwischen!" und stirbt/sterben an den schweren Verletzungen.');
+$.lang.register('adventuresystem.stories.11.chapter.5', '(survivors), haben die Schlacht überlebt. Konnten die feinliche Basis ausschalten und alle Linsen-Chips sichern! Gut Gemacht!');
