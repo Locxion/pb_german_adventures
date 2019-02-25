@@ -79,7 +79,7 @@ $.lang.register('adventuresystem.stories.10.chapter.5', '(survivors), haben die 
 
 $.lang.register('adventuresystem.stories.11.title', 'Feldwebel Nalchens Selbstmordkommando');
 $.lang.register('adventuresystem.stories.11.chapter.1', 'STILLGESTANDEN! BAUCH REIN! BRUST RAUS! Ihr habt euch alle freiwillig gemeldet um für diese Mission euer Leben zu riskieren!');
-$.lang.register('adventuresystem.stories.11.chapter.2', 'Der Feind hat die gesammten Lisen-Chips Vorräte ergattert! Das kann ich so nicht hinnehmen! Macht euch bereit!');
-$.lang.register('adventuresystem.stories.11.chapter.3', 'Zufrieden sieht Feldwebel Nalchen wie ihre Truppen den Feind angfreifen. Bald werden die Lisen-Chips ihr allein gehören!');
+$.lang.register('adventuresystem.stories.11.chapter.2', 'Der Feind hat die gesammten Linsen-Chips Vorräte ergattert! Das kann ich so nicht hinnehmen! Macht euch bereit!');
+$.lang.register('adventuresystem.stories.11.chapter.3', 'Zufrieden sieht Feldwebel Nalchen wie ihre Truppen den Feind angreifen. Bald werden die Linsen-Chips ihr allein gehören!');
 $.lang.register('adventuresystem.stories.11.chapter.4', 'Aber was ist das? (caught) ergreifen die Flucht! Panisch schreien sie/er "Aber Feldwebel Nalchen! Da ist ein Fluss dazwischen!" und stirbt/sterben an den schweren Verletzungen.');
 $.lang.register('adventuresystem.stories.11.chapter.5', '(survivors), haben die Schlacht überlebt. Konnten die feinliche Basis ausschalten und alle Linsen-Chips sichern! Gut Gemacht!');
